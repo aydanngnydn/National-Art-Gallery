@@ -1,0 +1,1040 @@
+locationid,site,room,publicaccess,description,unitposition,mapimageurl
+3591,East Building,EBL,1,East Bldg Lawn,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3592,East Building,EBL,1,East Bldg Lawn,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3593,East Building,EBL,1,East Bldg Lawn,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3594,East Building,EBL,1,East Bldg Lawn,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3617,East Building,EC-003,1,"East Bldg, Auditorium Lobby",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png
+3618,East Building,EC-003,1,"East Bldg, Auditorium Lobby",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png
+3619,East Building,EC-003,1,"East Bldg, Auditorium Lobby",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png
+3620,East Building,EC-003,1,"East Bldg, Auditorium Lobby",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png
+3621,East Building,EC-003,1,"East Bldg, Auditorium Lobby",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png
+3627,East Building,EC-005,1,"East Bldg, Auditorium",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png
+3628,East Building,EC-005,1,"East Bldg, Auditorium",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png
+3629,East Building,EC-005,1,"East Bldg, Auditorium",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png
+3630,East Building,EC-005,1,"East Bldg, Auditorium",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png
+3631,East Building,EC-005,1,"East Bldg, Auditorium",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png
+3809,East Building,EG-100,1,"East Bldg, Central Atrium",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3810,East Building,EG-100,1,"East Bldg, Central Atrium",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3811,East Building,EG-100,1,"East Bldg, Central Atrium",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3812,East Building,EG-100,1,"East Bldg, Central Atrium",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3813,East Building,EG-100,1,"East Bldg, Central Atrium",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3814,East Building,EG-101,1,"East Bldg, Entrance Lobby",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3815,East Building,EG-101,1,"East Bldg, Entrance Lobby",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3816,East Building,EG-101,1,"East Bldg, Entrance Lobby",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3817,East Building,EG-101,1,"East Bldg, Entrance Lobby",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3850,East Building,EG-105,1,"East Bldg, Vestibule, 105 (Pod 1)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3851,East Building,EG-105,1,"East Bldg, Vestibule, 105 (Pod 1)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3863,East Building,EG-107,1,"East Bldg, Ground, Elevator Lobby",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3864,East Building,EG-107,1,"East Bldg, Ground, Elevator Lobby",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3865,East Building,EG-107,1,"East Bldg, Ground, Elevator Lobby",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3921,East Building,EM-201,1,"East Bldg, Mezz. Landing",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+3922,East Building,EM-201,1,"East Bldg, Mezz. Landing",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+3923,East Building,EM-203,1,"East Bldg, Mezz. Terrace",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+3924,East Building,EM-203,1,"East Bldg, Mezz. Terrace",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+3925,East Building,EM-203,1,"East Bldg, Mezz. Terrace",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+3926,East Building,EM-203,1,"East Bldg, Mezz. Terrace",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+3928,East Building,EM-204,1,"East Bldg, Mezz. Elevator Lobby",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+3929,East Building,EM-204,1,"East Bldg, Mezz. Elevator Lobby",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+3947,East Building,EM-216,1,"East Bldg, Vestibule, 216 (Pod 1)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+3948,East Building,EM-216,1,"East Bldg, Vestibule, 216 (Pod 1)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+3949,East Building,EM-216,1,"East Bldg, Vestibule, 216 (Pod 1)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+3955,East Building,EM-217-B,1,"East Bldg, Mezz Gal 217B (Pod 1)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+3956,East Building,EM-217-B,1,"East Bldg, Mezz Gal 217B (Pod 1)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+3957,East Building,EM-217-B,1,"East Bldg, Mezz Gal 217B (Pod 1)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+3958,East Building,EM-217-B,1,"East Bldg, Mezz Gal 217B (Pod 1)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+3959,East Building,EM-217-B,1,"East Bldg, Mezz Gal 217B (Pod 1)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+3968,East Building,ENT,1,"East Bldg, North Terrace",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+3971,East Building,EST,1,"East Bldg, South Terrace",,
+4166,East Building,EU-401,1,"East Bldg, Upper, Elevator Lobby",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4167,East Building,EU-401,1,"East Bldg, Upper, Elevator Lobby",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4168,East Building,EU-401,1,"East Bldg, Upper, Elevator Lobby",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4206,East Building,EU-405,1,"East Bldg, West Terrace",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4207,East Building,EU-405,1,"East Bldg, West Terrace",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4208,East Building,EU-405,1,"East Bldg, West Terrace",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4209,East Building,EU-405,1,"East Bldg, West Terrace",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4210,East Building,EU-406-A,1,"East Bldg, Upr Lvl Gal 406A (Pod 2)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4211,East Building,EU-406-A,1,"East Bldg, Upr Lvl Gal 406A (Pod 2)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4212,East Building,EU-406-A,1,"East Bldg, Upr Lvl Gal 406A (Pod 2)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4213,East Building,EU-406-A,1,"East Bldg, Upr Lvl Gal 406A (Pod 2)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4214,East Building,EU-406-A,1,"East Bldg, Upr Lvl Gal 406A (Pod 2)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4215,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4216,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4217,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4218,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4219,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4220,East Building,EU-406-C,1,"East Bldg, Upr Lvl Gal 406C (Pod 2)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4221,East Building,EU-406-C,1,"East Bldg, Upr Lvl Gal 406C (Pod 2)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4222,East Building,EU-406-C,1,"East Bldg, Upr Lvl Gal 406C (Pod 2)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4223,East Building,EU-406-C,1,"East Bldg, Upr Lvl Gal 406C (Pod 2)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4224,East Building,EU-406-C,1,"East Bldg, Upr Lvl Gal 406C (Pod 2)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4266,East Building,EU-408,1,"East Bldg, Vestibule, 408 (Pod 2)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4267,East Building,EU-408,1,"East Bldg, Vestibule, 408 (Pod 2)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4268,East Building,EU-414,1,"East Bldg, Vestibule, 414 (Pod 1)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4269,East Building,EU-414,1,"East Bldg, Vestibule, 414 (Pod 1)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4270,East Building,EU-414,1,"East Bldg, Vestibule, 414 (Pod 1)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4271,East Building,EU-414,1,"East Bldg, Vestibule, 414 (Pod 1)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4277,East Building,EU-415-B,1,"East Bldg, Upr Lvl Gal 415B (Pod 1)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4278,East Building,EU-415-B,1,"East Bldg, Upr Lvl Gal 415B (Pod 1)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4279,East Building,EU-415-B,1,"East Bldg, Upr Lvl Gal 415B (Pod 1)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4280,East Building,EU-415-B,1,"East Bldg, Upr Lvl Gal 415B (Pod 1)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4281,East Building,EU-415-B,1,"East Bldg, Upr Lvl Gal 415B (Pod 1)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+4288,East Building,S-109,1,"Study Center, Ground Level S-109",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+4289,East Building,S-109,1,"Study Center, Ground Level S-109",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+4290,East Building,S-111,1,"Study Center, Ground Level S-111",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+4291,East Building,S-111,1,"Study Center, Ground Level S-111",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+4296,East Building,S-131,1,"Study Center, Ground Level S-131",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+4459,West Building,G-001-A,1,West Ground Floor Gallery 1A,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4460,West Building,G-001-A,1,West Ground Floor Gallery 1A,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4461,West Building,G-001-A,1,West Ground Floor Gallery 1A,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4462,West Building,G-001-B,1,West Ground Floor Gallery 1B,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4463,West Building,G-001-B,1,West Ground Floor Gallery 1B,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4464,West Building,G-001-B,1,West Ground Floor Gallery 1B,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4465,West Building,G-001-C,1,West Ground Floor Gallery 1C,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4466,West Building,G-001-C,1,West Ground Floor Gallery 1C,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4467,West Building,G-001-C,1,West Ground Floor Gallery 1C,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4468,West Building,G-002,1,West Ground Floor Gallery 2,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4469,West Building,G-002,1,West Ground Floor Gallery 2,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4470,West Building,G-002,1,West Ground Floor Gallery 2,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4471,West Building,G-002,1,West Ground Floor Gallery 2,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4472,West Building,G-002,1,West Ground Floor Gallery 2,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4473,West Building,G-003,1,West Ground Floor Gallery 3,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4474,West Building,G-003,1,West Ground Floor Gallery 3,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4475,West Building,G-003,1,West Ground Floor Gallery 3,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4476,West Building,G-003,1,West Ground Floor Gallery 3,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4478,West Building,G-004,1,West Ground Floor Gallery 4,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4479,West Building,G-004,1,West Ground Floor Gallery 4,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4480,West Building,G-004,1,West Ground Floor Gallery 4,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4481,West Building,G-005,1,West Ground Floor Gallery 5,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4482,West Building,G-005,1,West Ground Floor Gallery 5,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4483,West Building,G-005,1,West Ground Floor Gallery 5,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4484,West Building,G-005,1,West Ground Floor Gallery 5,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4485,West Building,G-006,1,West Ground Floor Gallery 6,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4486,West Building,G-006,1,West Ground Floor Gallery 6,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4487,West Building,G-006,1,West Ground Floor Gallery 6,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4488,West Building,G-006,1,West Ground Floor Gallery 6,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4489,West Building,G-006,1,West Ground Floor Gallery 6,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4490,West Building,G-007,1,West Ground Floor Gallery 7,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4491,West Building,G-007,1,West Ground Floor Gallery 7,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4492,West Building,G-007,1,West Ground Floor Gallery 7,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4493,West Building,G-008,1,West Ground Floor Gallery 8,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4494,West Building,G-008,1,West Ground Floor Gallery 8,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4495,West Building,G-008,1,West Ground Floor Gallery 8,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4496,West Building,G-009,1,West Ground Floor Gallery 9,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4497,West Building,G-009,1,West Ground Floor Gallery 9,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4498,West Building,G-009,1,West Ground Floor Gallery 9,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4499,West Building,G-009,1,West Ground Floor Gallery 9,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4500,West Building,G-009,1,West Ground Floor Gallery 9,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4501,West Building,G-010,1,West Ground Floor Gallery 10,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4502,West Building,G-010,1,West Ground Floor Gallery 10,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4503,West Building,G-010,1,West Ground Floor Gallery 10,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4504,West Building,G-010,1,West Ground Floor Gallery 10,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4505,West Building,G-010,1,West Ground Floor Gallery 10,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4506,West Building,G-011,1,West Ground Floor Gallery 11,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4507,West Building,G-011,1,West Ground Floor Gallery 11,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4508,West Building,G-011,1,West Ground Floor Gallery 11,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4509,West Building,G-011,1,West Ground Floor Gallery 11,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4510,West Building,G-011,1,West Ground Floor Gallery 11,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4511,West Building,G-011-A,1,West Ground Floor Gallery 11A,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4512,West Building,G-011-A,1,West Ground Floor Gallery 11A,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4513,West Building,G-011-A,1,West Ground Floor Gallery 11A,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4514,West Building,G-011-A,1,West Ground Floor Gallery 11A,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4515,West Building,G-011-A,1,West Ground Floor Gallery 11A,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4516,West Building,G-012,1,West Ground Floor Gallery 12,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4517,West Building,G-012,1,West Ground Floor Gallery 12,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4518,West Building,G-012,1,West Ground Floor Gallery 12,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4519,West Building,G-012,1,West Ground Floor Gallery 12,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4520,West Building,G-012,1,West Ground Floor Gallery 12,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4521,West Building,G-013,1,West Ground Floor Gallery 13,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4522,West Building,G-013,1,West Ground Floor Gallery 13,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4523,West Building,G-013,1,West Ground Floor Gallery 13,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4524,West Building,G-013,1,West Ground Floor Gallery 13,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4525,West Building,G-013,1,West Ground Floor Gallery 13,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4766,West Building,G-013-A,1,West Ground Floor Gallery 13A,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4767,West Building,G-013-A,1,West Ground Floor Gallery 13A,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4768,West Building,G-013-A,1,West Ground Floor Gallery 13A,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4769,West Building,G-013-A,1,West Ground Floor Gallery 13A,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4770,West Building,G-013-A,1,West Ground Floor Gallery 13A,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4784,West Building,G-014,1,West Ground Floor Gallery 14,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4785,West Building,G-014,1,West Ground Floor Gallery 14,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4786,West Building,G-014,1,West Ground Floor Gallery 14,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4787,West Building,G-014,1,West Ground Floor Gallery 14,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+4788,West Building,G-014,1,West Ground Floor Gallery 14,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5605,West Building,G-015,1,West Ground Floor Gallery 15,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5606,West Building,G-015,1,West Ground Floor Gallery 15,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5607,West Building,G-015,1,West Ground Floor Gallery 15,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5608,West Building,G-015,1,West Ground Floor Gallery 15,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5609,West Building,G-015,1,West Ground Floor Gallery 15,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5610,West Building,G-016,1,West Ground Floor Gallery 16,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5611,West Building,G-017,1,West Ground Floor Gallery 17,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5612,West Building,G-017,1,West Ground Floor Gallery 17,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5613,West Building,G-017,1,West Ground Floor Gallery 17,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5614,West Building,G-017,1,West Ground Floor Gallery 17,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5615,West Building,G-017,1,West Ground Floor Gallery 17,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5642,West Building,G-018,1,West Ground Floor Gallery 18,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5643,West Building,G-018,1,West Ground Floor Gallery 18,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5644,West Building,G-018,1,West Ground Floor Gallery 18,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5645,West Building,G-019,1,West Ground Floor Gallery 19,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5646,West Building,G-019,1,West Ground Floor Gallery 19,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5647,West Building,G-019,1,West Ground Floor Gallery 19,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5648,West Building,G-019,1,West Ground Floor Gallery 19,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+5649,West Building,G-019,1,West Ground Floor Gallery 19,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6470,West Building,G-021,1,West Ground Floor Gallery 21,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6471,West Building,G-021,1,West Ground Floor Gallery 21,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6472,West Building,G-022,1,West Ground Floor Gallery 22,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6473,West Building,G-022,1,West Ground Floor Gallery 22,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6474,West Building,G-022,1,West Ground Floor Gallery 22,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6475,West Building,G-022,1,West Ground Floor Gallery 22,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6476,West Building,G-022-A,1,West Ground Floor Gallery 22A,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6477,West Building,G-022-A,1,West Ground Floor Gallery 22A,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6478,West Building,G-022-A,1,West Ground Floor Gallery 22A,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6479,West Building,G-022-A,1,West Ground Floor Gallery 22A,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6480,West Building,G-022-A,1,West Ground Floor Gallery 22A,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6481,West Building,G-023,1,West Ground Floor Gallery 23,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6482,West Building,G-023,1,West Ground Floor Gallery 23,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6483,West Building,G-023,1,West Ground Floor Gallery 23,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6484,West Building,G-023,1,West Ground Floor Gallery 23,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6485,West Building,G-023,1,West Ground Floor Gallery 23,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6486,West Building,G-024,1,West Ground Floor Gallery 24,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6487,West Building,G-024,1,West Ground Floor Gallery 24,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6488,West Building,G-024,1,West Ground Floor Gallery 24,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6489,West Building,G-024,1,West Ground Floor Gallery 24,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6490,West Building,G-024,1,West Ground Floor Gallery 24,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6491,West Building,G-025,1,West Ground Floor Gallery 25,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6492,West Building,G-025,1,West Ground Floor Gallery 25,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6493,West Building,G-025,1,West Ground Floor Gallery 25,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6494,West Building,G-025,1,West Ground Floor Gallery 25,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6495,West Building,G-025,1,West Ground Floor Gallery 25,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6497,West Building,G-026,1,West Ground Floor Gallery 26,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6498,West Building,G-026,1,West Ground Floor Gallery 26,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6499,West Building,G-026,1,West Ground Floor Gallery 26,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6500,West Building,G-026,1,West Ground Floor Gallery 26,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6501,West Building,G-026,1,West Ground Floor Gallery 26,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6502,West Building,G-026-A,1,West Ground Floor Gallery 26A,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6503,West Building,G-026-A,1,West Ground Floor Gallery 26A,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6504,West Building,G-026-A,1,West Ground Floor Gallery 26A,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6505,West Building,G-026-A,1,West Ground Floor Gallery 26A,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6506,West Building,G-026-A,1,West Ground Floor Gallery 26A,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6507,West Building,G-026-B,1,West Ground Floor Gallery 26B,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6508,West Building,G-026-B,1,West Ground Floor Gallery 26B,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6509,West Building,G-026-B,1,West Ground Floor Gallery 26B,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6510,West Building,G-026-B,1,West Ground Floor Gallery 26B,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6511,West Building,G-026-B,1,West Ground Floor Gallery 26B,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6517,West Building,G-027,1,West Ground Floor Gallery 27,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6518,West Building,G-027,1,West Ground Floor Gallery 27,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6519,West Building,G-027,1,West Ground Floor Gallery 27,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6520,West Building,G-027,1,West Ground Floor Gallery 27,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6521,West Building,G-027,1,West Ground Floor Gallery 27,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6522,West Building,G-028,1,West Ground Floor Gallery 28,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6523,West Building,G-028,1,West Ground Floor Gallery 28,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6524,West Building,G-028,1,West Ground Floor Gallery 28,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6525,West Building,G-028,1,West Ground Floor Gallery 28,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6526,West Building,G-028,1,West Ground Floor Gallery 28,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6527,West Building,G-029,1,West Ground Floor Gallery 29,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6528,West Building,G-029,1,West Ground Floor Gallery 29,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6529,West Building,G-029,1,West Ground Floor Gallery 29,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6530,West Building,G-029,1,West Ground Floor Gallery 29,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6531,West Building,G-029,1,West Ground Floor Gallery 29,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6532,West Building,G-030,1,West Ground Floor Gallery 30,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6533,West Building,G-030,1,West Ground Floor Gallery 30,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6534,West Building,G-030,1,West Ground Floor Gallery 30,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6535,West Building,G-030,1,West Ground Floor Gallery 30,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6622,West Building,G-031,1,West Ground Floor Gallery 31,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6623,West Building,G-031,1,West Ground Floor Gallery 31,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6624,West Building,G-031,1,West Ground Floor Gallery 31,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6625,West Building,G-031,1,West Ground Floor Gallery 31,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6626,West Building,G-031,1,West Ground Floor Gallery 31,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6627,West Building,G-032,1,West Ground Floor Gallery 32,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6628,West Building,G-032,1,West Ground Floor Gallery 32,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6629,West Building,G-032,1,West Ground Floor Gallery 32,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6630,West Building,G-032,1,West Ground Floor Gallery 32,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6631,West Building,G-032,1,West Ground Floor Gallery 32,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6632,West Building,G-033,1,West Ground Floor Gallery 33,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6633,West Building,G-033,1,West Ground Floor Gallery 33,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6634,West Building,G-033,1,West Ground Floor Gallery 33,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6635,West Building,G-033,1,West Ground Floor Gallery 33,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6636,West Building,G-033,1,West Ground Floor Gallery 33,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6637,West Building,G-034,1,West Ground Floor Gallery 34,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6638,West Building,G-034,1,West Ground Floor Gallery 34,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6639,West Building,G-034,1,West Ground Floor Gallery 34,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6640,West Building,G-034,1,West Ground Floor Gallery 34,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6641,West Building,G-035,1,West Ground Floor Gallery 35,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6642,West Building,G-036,1,West Ground Floor Gallery 36,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6643,West Building,G-036,1,West Ground Floor Gallery 36,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6644,West Building,G-036,1,West Ground Floor Gallery 36,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6645,West Building,G-037,1,West Ground Floor Gallery 37,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6646,West Building,G-037,1,West Ground Floor Gallery 37,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6647,West Building,G-037,1,West Ground Floor Gallery 37,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6648,West Building,G-037,1,West Ground Floor Gallery 37,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6649,West Building,G-039,1,West Ground Floor Gallery 39,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6650,West Building,G-039,1,West Ground Floor Gallery 39,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6651,West Building,G-039,1,West Ground Floor Gallery 39,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6652,West Building,G-039,1,West Ground Floor Gallery 39,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6653,West Building,G-039,1,West Ground Floor Gallery 39,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6655,West Building,G-041,1,West Ground Floor Gallery 41,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6656,West Building,G-041,1,West Ground Floor Gallery 41,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6657,West Building,G-041,1,West Ground Floor Gallery 41,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6658,West Building,G-041,1,West Ground Floor Gallery 41,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6659,West Building,G-041,1,West Ground Floor Gallery 41,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6661,West Building,G-042-A,1,West Ground Floor Gallery 42A,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6662,West Building,G-042-A,1,West Ground Floor Gallery 42A,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6663,West Building,G-042-A,1,West Ground Floor Gallery 42A,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6664,West Building,G-042-A,1,West Ground Floor Gallery 42A,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6665,West Building,G-042-A,1,West Ground Floor Gallery 42A,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6666,West Building,G-042-B,1,West Ground Floor Gallery 42B,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6667,West Building,G-042-B,1,West Ground Floor Gallery 42B,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6668,West Building,G-042-B,1,West Ground Floor Gallery 42B,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6669,West Building,G-042-B,1,West Ground Floor Gallery 42B,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6670,West Building,G-042-B,1,West Ground Floor Gallery 42B,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6671,West Building,G-042-C,1,West Ground Floor Gallery 42C,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6672,West Building,G-042-C,1,West Ground Floor Gallery 42C,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6673,West Building,G-042-C,1,West Ground Floor Gallery 42C,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6674,West Building,G-042-C,1,West Ground Floor Gallery 42C,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6675,West Building,G-042-C,1,West Ground Floor Gallery 42C,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6676,West Building,G-042-D,1,West Ground Floor Gallery 42D,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6677,West Building,G-042-D,1,West Ground Floor Gallery 42D,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6678,West Building,G-042-D,1,West Ground Floor Gallery 42D,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6679,West Building,G-042-D,1,West Ground Floor Gallery 42D,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6680,West Building,G-042-D,1,West Ground Floor Gallery 42D,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6681,West Building,G-043,1,West Ground Floor Gallery 43,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6682,West Building,G-043,1,West Ground Floor Gallery 43,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6683,West Building,G-043,1,West Ground Floor Gallery 43,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6684,West Building,G-043,1,West Ground Floor Gallery 43,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6685,West Building,G-043,1,West Ground Floor Gallery 43,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6686,West Building,G-044,1,West Bldg Garden Cafe,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6687,West Building,G-044,1,West Bldg Garden Cafe,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+6688,West Building,G-044,1,West Bldg Garden Cafe,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+7906,West Building,G-132,1,Fourth St Escalator Lobby,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+7907,West Building,G-132,1,Fourth St Escalator Lobby,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+7909,West Building,G-134,1,Fourth St Hallway,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+7910,West Building,G-134,1,Fourth St Hallway,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+7911,West Building,G-134,1,Fourth St Hallway,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+7914,West Building,G-138-A,1,West Ground Floor Gallery 138A,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+7915,West Building,G-138-A,1,Fourth St Elevator Lobby,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+8191,West Building,M-001,1,West Main Floor Gallery 1,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8192,West Building,M-001,1,West Main Floor Gallery 1,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8193,West Building,M-001,1,West Main Floor Gallery 1,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8194,West Building,M-001,1,West Main Floor Gallery 1,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8195,West Building,M-001,1,West Main Floor Gallery 1,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8196,West Building,M-002,1,West Main Floor Gallery 2,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8197,West Building,M-002,1,West Main Floor Gallery 2,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8198,West Building,M-002,1,West Main Floor Gallery 2,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8199,West Building,M-002,1,West Main Floor Gallery 2,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8200,West Building,M-002,1,West Main Floor Gallery 2,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8201,West Building,M-003,1,West Main Floor Gallery 3,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8202,West Building,M-003,1,West Main Floor Gallery 3,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8203,West Building,M-003,1,West Main Floor Gallery 3,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8204,West Building,M-003,1,West Main Floor Gallery 3,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8205,West Building,M-003,1,West Main Floor Gallery 3,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8206,West Building,M-004,1,West Main Floor Gallery 4,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8207,West Building,M-004,1,West Main Floor Gallery 4,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8208,West Building,M-004,1,West Main Floor Gallery 4,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8209,West Building,M-004,1,West Main Floor Gallery 4,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8210,West Building,M-004,1,West Main Floor Gallery 4,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8211,West Building,M-005,1,West Main Floor Gallery 5,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8212,West Building,M-005,1,West Main Floor Gallery 5,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8213,West Building,M-005,1,West Main Floor Gallery 5,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8214,West Building,M-005,1,West Main Floor Gallery 5,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8215,West Building,M-005,1,West Main Floor Gallery 5,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8216,West Building,M-006,1,West Main Floor Gallery 6,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8217,West Building,M-006,1,West Main Floor Gallery 6,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8218,West Building,M-006,1,West Main Floor Gallery 6,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8219,West Building,M-006,1,West Main Floor Gallery 6,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8220,West Building,M-006,1,West Main Floor Gallery 6,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8221,West Building,M-007,1,West Main Floor Gallery 7,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8222,West Building,M-007,1,West Main Floor Gallery 7,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8223,West Building,M-007,1,West Main Floor Gallery 7,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8224,West Building,M-007,1,West Main Floor Gallery 7,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8225,West Building,M-007,1,West Main Floor Gallery 7,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8226,West Building,M-008,1,West Main Floor Gallery 8,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8227,West Building,M-008,1,West Main Floor Gallery 8,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8228,West Building,M-008,1,West Main Floor Gallery 8,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8229,West Building,M-008,1,West Main Floor Gallery 8,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8230,West Building,M-008,1,West Main Floor Gallery 8,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8231,West Building,M-009,1,West Main Floor Gallery 9,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8232,West Building,M-009,1,West Main Floor Gallery 9,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8233,West Building,M-009,1,West Main Floor Gallery 9,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8234,West Building,M-009,1,West Main Floor Gallery 9,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8235,West Building,M-009,1,West Main Floor Gallery 9,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8236,West Building,M-010,1,West Main Floor Gallery 10,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8237,West Building,M-010,1,West Main Floor Gallery 10,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8238,West Building,M-010,1,West Main Floor Gallery 10,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8239,West Building,M-010,1,West Main Floor Gallery 10,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8240,West Building,M-010,1,West Main Floor Gallery 10,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8241,West Building,M-011,1,West Main Floor Gallery 11,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8242,West Building,M-011,1,West Main Floor Gallery 11,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8243,West Building,M-011,1,West Main Floor Gallery 11,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8244,West Building,M-011,1,West Main Floor Gallery 11,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8245,West Building,M-011,1,West Main Floor Gallery 11,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8246,West Building,M-012,1,West Main Floor Gallery 12,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8247,West Building,M-012,1,West Main Floor Gallery 12,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8248,West Building,M-012,1,West Main Floor Gallery 12,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8249,West Building,M-012,1,West Main Floor Gallery 12,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8250,West Building,M-013,1,West Main Floor Gallery 13,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8251,West Building,M-013,1,West Main Floor Gallery 13,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8252,West Building,M-013,1,West Main Floor Gallery 13,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8253,West Building,M-013,1,West Main Floor Gallery 13,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8254,West Building,M-013,1,West Main Floor Gallery 13,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8255,West Building,M-014,1,West Main Floor Gallery 14,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8256,West Building,M-014,1,West Main Floor Gallery 14,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8257,West Building,M-014,1,West Main Floor Gallery 14,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8258,West Building,M-014,1,West Main Floor Gallery 14,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8259,West Building,M-014,1,West Main Floor Gallery 14,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8260,West Building,M-015,1,West Main Floor Gallery 15,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8261,West Building,M-015,1,West Main Floor Gallery 15,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8262,West Building,M-015,1,West Main Floor Gallery 15,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8263,West Building,M-015,1,West Main Floor Gallery 15,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8264,West Building,M-015,1,West Main Floor Gallery 15,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8265,West Building,M-016,1,West Main Floor Gallery 16,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8266,West Building,M-016,1,West Main Floor Gallery 16,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8267,West Building,M-016,1,West Main Floor Gallery 16,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8268,West Building,M-016,1,West Main Floor Gallery 16,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8269,West Building,M-016,1,West Main Floor Gallery 16,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8270,West Building,M-017,1,West Main Floor Gallery 17,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8271,West Building,M-017,1,West Main Floor Gallery 17,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8272,West Building,M-017,1,West Main Floor Gallery 17,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8273,West Building,M-017,1,West Main Floor Gallery 17,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8274,West Building,M-017,1,West Main Floor Gallery 17,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8295,West Building,M-022,1,West Main Floor Gallery 22,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8296,West Building,M-022,1,West Main Floor Gallery 22,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8297,West Building,M-022,1,West Main Floor Gallery 22,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8298,West Building,M-022,1,West Main Floor Gallery 22,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8299,West Building,M-022,1,West Main Floor Gallery 22,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8301,West Building,M-023,1,West Main Floor Gallery 23,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8302,West Building,M-023,1,West Main Floor Gallery 23,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8303,West Building,M-023,1,West Main Floor Gallery 23,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8304,West Building,M-023,1,West Main Floor Gallery 23,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8305,West Building,M-023,1,West Main Floor Gallery 23,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8306,West Building,M-024,1,West Main Floor Gallery 24,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8307,West Building,M-024,1,West Main Floor Gallery 24,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8308,West Building,M-024,1,West Main Floor Gallery 24,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8309,West Building,M-024,1,West Main Floor Gallery 24,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8310,West Building,M-024,1,West Main Floor Gallery 24,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8311,West Building,M-025,1,West Main Floor Gallery 25,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8312,West Building,M-025,1,West Main Floor Gallery 25,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8313,West Building,M-025,1,West Main Floor Gallery 25,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8314,West Building,M-025,1,West Main Floor Gallery 25,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8315,West Building,M-025,1,West Main Floor Gallery 25,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8316,West Building,M-026,1,West Main Floor Gallery 26,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8317,West Building,M-026,1,West Main Floor Gallery 26,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8318,West Building,M-026,1,West Main Floor Gallery 26,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8319,West Building,M-026,1,West Main Floor Gallery 26,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8320,West Building,M-026,1,West Main Floor Gallery 26,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8321,West Building,M-027,1,West Main Floor Gallery 27,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8322,West Building,M-027,1,West Main Floor Gallery 27,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8323,West Building,M-027,1,West Main Floor Gallery 27,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8324,West Building,M-027,1,West Main Floor Gallery 27,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8325,West Building,M-027,1,West Main Floor Gallery 27,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8326,West Building,M-028,1,West Main Floor Gallery 28,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8327,West Building,M-028,1,West Main Floor Gallery 28,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8328,West Building,M-028,1,West Main Floor Gallery 28,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8329,West Building,M-028,1,West Main Floor Gallery 28,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8330,West Building,M-028,1,West Main Floor Gallery 28,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8450,West Building,M-050-A,1,West Main Floor Gallery 50 A,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8451,West Building,M-050-A,1,West Main Floor Gallery 50 A,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8452,West Building,M-050-A,1,West Main Floor Gallery 50 A,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8453,West Building,M-050-A,1,West Main Floor Gallery 50 A,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8454,West Building,M-050-A,1,West Main Floor Gallery 50 A,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8455,West Building,M-050-B,1,West Main Floor Gallery 50 B,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8456,West Building,M-050-B,1,West Main Floor Gallery 50 B,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8457,West Building,M-050-B,1,West Main Floor Gallery 50 B,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8458,West Building,M-050-B,1,West Main Floor Gallery 50 B,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8459,West Building,M-050-B,1,West Main Floor Gallery 50 B,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8460,West Building,M-050-C,1,West Main Floor Gallery 50 C,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8461,West Building,M-050-C,1,West Main Floor Gallery 50 C,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8462,West Building,M-050-C,1,West Main Floor Gallery 50 C,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8463,West Building,M-050-C,1,West Main Floor Gallery 50 C,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8464,West Building,M-050-C,1,West Main Floor Gallery 50 C,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8470,West Building,M-052,1,West Main Floor Gallery 52,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8471,West Building,M-052,1,West Main Floor Gallery 52,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8472,West Building,M-052,1,West Main Floor Gallery 52,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8473,West Building,M-052,1,West Main Floor Gallery 52,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8474,West Building,M-052,1,West Main Floor Gallery 52,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8475,West Building,M-053,1,West Main Floor Gallery 53,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8476,West Building,M-053,1,West Main Floor Gallery 53,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8477,West Building,M-053,1,West Main Floor Gallery 53,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8478,West Building,M-053,1,West Main Floor Gallery 53,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8479,West Building,M-053,1,West Main Floor Gallery 53,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8494,West Building,M-054,1,West Main Floor Gallery 54,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8495,West Building,M-054,1,West Main Floor Gallery 54,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8496,West Building,M-054,1,West Main Floor Gallery 54,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8497,West Building,M-054,1,West Main Floor Gallery 54,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8498,West Building,M-054,1,West Main Floor Gallery 54,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8501,West Building,M-055,1,West Main Floor Gallery 55,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8502,West Building,M-055,1,West Main Floor Gallery 55,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8503,West Building,M-055,1,West Main Floor Gallery 55,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8504,West Building,M-055,1,West Main Floor Gallery 55,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8505,West Building,M-055,1,West Main Floor Gallery 55,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8506,West Building,M-056,1,West Main Floor Gallery 56,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8507,West Building,M-056,1,West Main Floor Gallery 56,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8508,West Building,M-056,1,West Main Floor Gallery 56,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8509,West Building,M-056,1,West Main Floor Gallery 56,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8510,West Building,M-056,1,West Main Floor Gallery 56,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8511,West Building,M-057,1,West Main Floor Gallery 57,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8512,West Building,M-057,1,West Main Floor Gallery 57,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8513,West Building,M-057,1,West Main Floor Gallery 57,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8514,West Building,M-057,1,West Main Floor Gallery 57,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8515,West Building,M-057,1,West Main Floor Gallery 57,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8516,West Building,M-058,1,West Main Floor Gallery 58,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8517,West Building,M-058,1,West Main Floor Gallery 58,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8518,West Building,M-058,1,West Main Floor Gallery 58,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8519,West Building,M-058,1,West Main Floor Gallery 58,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8520,West Building,M-058,1,West Main Floor Gallery 58,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8521,West Building,M-059,1,West Main Floor Gallery 59,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8522,West Building,M-059,1,West Main Floor Gallery 59,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8523,West Building,M-059,1,West Main Floor Gallery 59,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8524,West Building,M-059,1,West Main Floor Gallery 59,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8525,West Building,M-059,1,West Main Floor Gallery 59,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8526,West Building,M-060,1,West Main Floor Gallery 60,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8527,West Building,M-060,1,West Main Floor Gallery 60,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8528,West Building,M-060,1,West Main Floor Gallery 60,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8529,West Building,M-060,1,West Main Floor Gallery 60,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8530,West Building,M-060,1,West Main Floor Gallery 60,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8531,West Building,M-060-A,1,West Main Floor Gallery 60 A,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8532,West Building,M-060-A,1,West Main Floor Gallery 60 A,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8533,West Building,M-060-A,1,West Main Floor Gallery 60 A,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8534,West Building,M-060-A,1,West Main Floor Gallery 60 A,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8535,West Building,M-060-A,1,West Main Floor Gallery 60 A,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8536,West Building,M-060-B,1,West Main Floor Gallery 60 B,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8537,West Building,M-060-B,1,West Main Floor Gallery 60 B,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8538,West Building,M-060-B,1,West Main Floor Gallery 60 B,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8539,West Building,M-060-B,1,West Main Floor Gallery 60 B,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8540,West Building,M-060-B,1,West Main Floor Gallery 60 B,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8541,West Building,M-061,1,West Main Floor Gallery 61,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8542,West Building,M-061,1,West Main Floor Gallery 61,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8543,West Building,M-061,1,West Main Floor Gallery 61,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8544,West Building,M-061,1,West Main Floor Gallery 61,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8545,West Building,M-061,1,West Main Floor Gallery 61,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8546,West Building,M-062,1,West Main Floor Gallery 62,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8547,West Building,M-062,1,West Main Floor Gallery 62,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8548,West Building,M-062,1,West Main Floor Gallery 62,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8549,West Building,M-062,1,West Main Floor Gallery 62,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8550,West Building,M-062,1,West Main Floor Gallery 62,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8551,West Building,M-063,1,West Main Floor Gallery 63,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8552,West Building,M-063,1,West Main Floor Gallery 63,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8553,West Building,M-063,1,West Main Floor Gallery 63,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8554,West Building,M-063,1,West Main Floor Gallery 63,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8555,West Building,M-063,1,West Main Floor Gallery 63,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8556,West Building,M-064,1,West Main Floor Gallery 64,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8557,West Building,M-064,1,West Main Floor Gallery 64,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8558,West Building,M-064,1,West Main Floor Gallery 64,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8559,West Building,M-064,1,West Main Floor Gallery 64,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8560,West Building,M-064,1,West Main Floor Gallery 64,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8561,West Building,M-065,1,West Main Floor Gallery 65,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8562,West Building,M-065,1,West Main Floor Gallery 65,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8563,West Building,M-065,1,West Main Floor Gallery 65,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8564,West Building,M-065,1,West Main Floor Gallery 65,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8565,West Building,M-065,1,West Main Floor Gallery 65,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8567,West Building,M-066,1,West Main Floor Gallery 66,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8568,West Building,M-066,1,West Main Floor Gallery 66,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8569,West Building,M-066,1,West Main Floor Gallery 66,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8570,West Building,M-066,1,West Main Floor Gallery 66,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8571,West Building,M-066,1,West Main Floor Gallery 66,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8573,West Building,M-067,1,West Main Floor Gallery 67,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8574,West Building,M-067,1,West Main Floor Gallery 67,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8575,West Building,M-067,1,West Main Floor Gallery 67,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8576,West Building,M-067,1,West Main Floor Gallery 67,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8577,West Building,M-067,1,West Main Floor Gallery 67,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8578,West Building,M-068,1,West Main Floor Gallery 68,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8579,West Building,M-068,1,West Main Floor Gallery 68,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8580,West Building,M-068,1,West Main Floor Gallery 68,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8581,West Building,M-068,1,West Main Floor Gallery 68,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8582,West Building,M-068,1,West Main Floor Gallery 68,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8583,West Building,M-069,1,West Main Floor Gallery 69,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8584,West Building,M-069,1,West Main Floor Gallery 69,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8585,West Building,M-069,1,West Main Floor Gallery 69,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8586,West Building,M-069,1,West Main Floor Gallery 69,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8587,West Building,M-069,1,West Main Floor Gallery 69,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8588,West Building,M-069-A,1,West Main Floor Gallery 69 A,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8589,West Building,M-069-A,1,West Main Floor Gallery 69 A,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8590,West Building,M-069-A,1,West Main Floor Gallery 69 A,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8591,West Building,M-069-A,1,West Main Floor Gallery 69 A,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8592,West Building,M-069-A,1,West Main Floor Gallery 69 A,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8593,West Building,M-070,1,West Main Floor Gallery 70,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8594,West Building,M-070,1,West Main Floor Gallery 70,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8595,West Building,M-070,1,West Main Floor Gallery 70,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8596,West Building,M-070,1,West Main Floor Gallery 70,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8597,West Building,M-070,1,West Main Floor Gallery 70,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8598,West Building,M-071,1,West Main Floor Gallery 71,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8599,West Building,M-071,1,West Main Floor Gallery 71,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8600,West Building,M-071,1,West Main Floor Gallery 71,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8601,West Building,M-071,1,West Main Floor Gallery 71,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8602,West Building,M-071,1,West Main Floor Gallery 71,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8603,West Building,M-072,1,West Main Floor Gallery 72,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8604,West Building,M-072,1,West Main Floor Gallery 72,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8605,West Building,M-072,1,West Main Floor Gallery 72,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8606,West Building,M-072,1,West Main Floor Gallery 72,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8607,West Building,M-072,1,West Main Floor Gallery 72,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8613,West Building,M-074,1,West Main Floor Gallery 74,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8614,West Building,M-074,1,West Main Floor Gallery 74,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8615,West Building,M-074,1,West Main Floor Gallery 74,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8616,West Building,M-074,1,West Main Floor Gallery 74,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8617,West Building,M-074,1,West Main Floor Gallery 74,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8618,West Building,M-075,1,West Main Floor Gallery 75,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8619,West Building,M-075,1,West Main Floor Gallery 75,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8620,West Building,M-075,1,West Main Floor Gallery 75,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8621,West Building,M-075,1,West Main Floor Gallery 75,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8622,West Building,M-075,1,West Main Floor Gallery 75,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8623,West Building,M-076,1,West Main Floor Gallery 76,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8624,West Building,M-076,1,West Main Floor Gallery 76,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8625,West Building,M-076,1,West Main Floor Gallery 76,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8626,West Building,M-076,1,West Main Floor Gallery 76,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8627,West Building,M-076,1,West Main Floor Gallery 76,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8628,West Building,M-077,1,West Main Floor Gallery 77,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8629,West Building,M-077,1,West Main Floor Gallery 77,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8630,West Building,M-077,1,West Main Floor Gallery 77,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8631,West Building,M-077,1,West Main Floor Gallery 77,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8632,West Building,M-077,1,West Main Floor Gallery 77,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8638,West Building,M-078-A,1,West Main Floor Gallery 78A,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8639,West Building,M-078-A,1,West Main Floor Gallery 78A,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8640,West Building,M-078-A,1,West Main Floor Gallery 78A,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8641,West Building,M-078-A,1,West Main Floor Gallery 78A,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8642,West Building,M-078-A,1,West Main Floor Gallery 78A,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8643,West Building,M-078-B,1,West Main Floor Gallery 78B,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8644,West Building,M-078-B,1,West Main Floor Gallery 78B,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8645,West Building,M-078-B,1,West Main Floor Gallery 78B,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8646,West Building,M-078-B,1,West Main Floor Gallery 78B,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8647,West Building,M-078-B,1,West Main Floor Gallery 78B,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8648,West Building,M-079,1,West Main Floor Gallery 79,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8649,West Building,M-079,1,West Main Floor Gallery 79,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8650,West Building,M-079,1,West Main Floor Gallery 79,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8651,West Building,M-079,1,West Main Floor Gallery 79,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8652,West Building,M-079,1,West Main Floor Gallery 79,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8653,West Building,M-080,1,West Main Floor Gallery 80,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8654,West Building,M-080,1,West Main Floor Gallery 80,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8655,West Building,M-080,1,West Main Floor Gallery 80,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8656,West Building,M-080,1,West Main Floor Gallery 80,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8657,West Building,M-080,1,West Main Floor Gallery 80,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8658,West Building,M-081,1,West Main Floor Gallery 81,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8659,West Building,M-081,1,West Main Floor Gallery 81,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8660,West Building,M-081,1,West Main Floor Gallery 81,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8661,West Building,M-081,1,West Main Floor Gallery 81,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8662,West Building,M-081,1,West Main Floor Gallery 81,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8663,West Building,M-082,1,West Main Floor Gallery 82,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8664,West Building,M-082,1,West Main Floor Gallery 82,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8665,West Building,M-082,1,West Main Floor Gallery 82,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8666,West Building,M-082,1,West Main Floor Gallery 82,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8667,West Building,M-082,1,West Main Floor Gallery 82,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8668,West Building,M-083,1,West Main Floor Gallery 83,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8669,West Building,M-083,1,West Main Floor Gallery 83,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8670,West Building,M-083,1,West Main Floor Gallery 83,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8671,West Building,M-083,1,West Main Floor Gallery 83,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8672,West Building,M-083,1,West Main Floor Gallery 83,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8673,West Building,M-084,1,West Main Floor Gallery 84,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8674,West Building,M-084,1,West Main Floor Gallery 84,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8675,West Building,M-084,1,West Main Floor Gallery 84,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8676,West Building,M-084,1,West Main Floor Gallery 84,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8677,West Building,M-084,1,West Main Floor Gallery 84,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8678,West Building,M-085,1,West Main Floor Gallery 85,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8679,West Building,M-085,1,West Main Floor Gallery 85,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8680,West Building,M-085,1,West Main Floor Gallery 85,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8681,West Building,M-085,1,West Main Floor Gallery 85,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8682,West Building,M-085,1,West Main Floor Gallery 85,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8683,West Building,M-086,1,West Main Floor Gallery 86,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8684,West Building,M-086,1,West Main Floor Gallery 86,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8685,West Building,M-086,1,West Main Floor Gallery 86,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8686,West Building,M-086,1,West Main Floor Gallery 86,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8687,West Building,M-086,1,West Main Floor Gallery 86,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8688,West Building,M-087,1,West Main Floor Gallery 87,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8689,West Building,M-087,1,West Main Floor Gallery 87,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8690,West Building,M-087,1,West Main Floor Gallery 87,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8691,West Building,M-087,1,West Main Floor Gallery 87,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8692,West Building,M-087,1,West Main Floor Gallery 87,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8693,West Building,M-088,1,West Main Floor Gallery 88,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8694,West Building,M-088,1,West Main Floor Gallery 88,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8695,West Building,M-088,1,West Main Floor Gallery 88,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8696,West Building,M-088,1,West Main Floor Gallery 88,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8697,West Building,M-088,1,West Main Floor Gallery 88,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8698,West Building,M-089,1,West Main Floor Gallery 89,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8699,West Building,M-089,1,West Main Floor Gallery 89,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8700,West Building,M-089,1,West Main Floor Gallery 89,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8701,West Building,M-089,1,West Main Floor Gallery 89,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8702,West Building,M-089,1,West Main Floor Gallery 89,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8703,West Building,M-090,1,West Main Floor Gallery 90,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8704,West Building,M-090,1,West Main Floor Gallery 90,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8705,West Building,M-090,1,West Main Floor Gallery 90,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8706,West Building,M-090,1,West Main Floor Gallery 90,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8707,West Building,M-090,1,West Main Floor Gallery 90,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8708,West Building,M-091,1,West Main Floor Gallery 91,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8709,West Building,M-091,1,West Main Floor Gallery 91,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8710,West Building,M-091,1,West Main Floor Gallery 91,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8711,West Building,M-091,1,West Main Floor Gallery 91,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8712,West Building,M-091,1,West Main Floor Gallery 91,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8713,West Building,M-092,1,West Main Floor Gallery 92,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8714,West Building,M-092,1,West Main Floor Gallery 92,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8715,West Building,M-092,1,West Main Floor Gallery 92,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8716,West Building,M-092,1,West Main Floor Gallery 92,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8717,West Building,M-092,1,West Main Floor Gallery 92,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8718,West Building,M-093,1,West Main Floor Gallery 93,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8719,West Building,M-093,1,West Main Floor Gallery 93,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8720,West Building,M-093,1,West Main Floor Gallery 93,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8721,West Building,M-093,1,West Main Floor Gallery 93,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8722,West Building,M-093,1,West Main Floor Gallery 93,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8779,West Building,WBL,1,West Bldg Lawn,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+8786,West Building,G-004,1,West Ground Floor Gallery 4,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+8787,West Building,G-004,1,West Ground Floor Gallery 4,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+8808,West Building,M-107,1,Rotunda,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8809,West Building,M-107,1,Rotunda,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8810,West Building,M-137,1,"West Bldg, Lobby D",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8811,West Building,M-137,1,"West Bldg, Lobby D",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+8841,East Building,EU-408,1,"East Bldg, Vestibule, 408 (Pod 2)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+8857,East Building,CLA-110,1,Moving Walkway Tunnel,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-concourse.png
+8860,West Building,G-001-C,1,West Ground Floor Gallery 1C,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9009,East Building,EG-100,1,"East Bldg, Central Atrium",CEILING,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+9010,East Building,EM-203,1,"East Bldg, Mezz. Terrace",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+9012,West Building,G-036,1,West Ground Floor Gallery 36,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9013,West Building,G-039,1,West Ground Floor Gallery 39,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9014,West Building,G-041,1,West Ground Floor Gallery 41,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9015,West Building,G-042-B,1,West Ground Floor Gallery 42B,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9016,West Building,M-001,1,West Main Floor Gallery 1,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+9017,West Building,M-006,1,West Main Floor Gallery 6,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+9018,West Building,M-022,1,West Main Floor Gallery 22,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+9019,West Building,M-026,1,West Main Floor Gallery 26,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+9030,East Building,EG-100,1,"East Bldg, Central Atrium",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+9031,East Building,EM-201,1,"East Bldg, Mezz. Landing",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+9032,West Building,G-016,1,West Ground Floor Gallery 16,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9033,West Building,G-016,1,West Ground Floor Gallery 16,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9034,West Building,G-016,1,West Ground Floor Gallery 16,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9035,West Building,G-016,1,West Ground Floor Gallery 16,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9036,West Building,G-018,1,West Ground Floor Gallery 18,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9037,West Building,G-018,1,West Ground Floor Gallery 18,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9249,West Building,G-003,1,West Ground Floor Gallery 3,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9255,West Building,G-004,1,West Ground Floor Gallery 4,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9258,West Building,G-005,1,West Ground Floor Gallery 5,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9260,West Building,G-006,1,West Ground Floor Gallery 6,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9261,West Building,G-007,1,West Ground Floor Gallery 7,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9269,East Building,EM-203,1,"East Bldg, Mezz. Terrace",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+9270,West Building,G-008,1,West Ground Floor Gallery 8,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9271,West Building,G-008,1,West Ground Floor Gallery 8,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9272,West Building,G-008,1,West Ground Floor Gallery 8,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9273,West Building,G-014,1,West Ground Floor Gallery 14,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9282,West Building,M-075,1,West Main Floor Gallery 75,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+9287,West Building,G-010,1,West Ground Floor Gallery 10,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9288,West Building,G-011,1,West Ground Floor Gallery 11,CEILING,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9289,West Building,G-011,1,West Ground Floor Gallery 11,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9290,West Building,G-012,1,West Ground Floor Gallery 12,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9291,West Building,G-012,1,West Ground Floor Gallery 12,CEILING,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9314,West Building,G-085,1,"North Lobby, West Stair",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9315,West Building,G-094,1,"North Lobby, East Stair",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9328,West Building,G-043,1,West Ground Floor Gallery 43,EAST BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9329,West Building,G-043,1,West Ground Floor Gallery 43,WEST BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9332,West Building,G-019,1,West Ground Floor Gallery 19,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9339,West Building,G-032,1,West Ground Floor Gallery 32,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9350,West Building,M-025,1,West Main Floor Gallery 25,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+9354,West Building,G-029,1,West Ground Floor Gallery 29,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9355,West Building,G-029,1,West Ground Floor Gallery 29,SOUTH BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9356,West Building,G-029,1,West Ground Floor Gallery 29,NORTH BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9357,West Building,G-028,1,West Ground Floor Gallery 28,NORTH BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9358,West Building,G-028,1,West Ground Floor Gallery 28,SOUTH BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9359,West Building,G-028,1,West Ground Floor Gallery 28,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9366,West Building,M-138,1,East Stair Lobby,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+9406,West Building,M-079,1,West Main Floor Gallery 79,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+9407,West Building,M-077,1,West Main Floor Gallery 77,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+9409,West Building,M-072,1,West Main Floor Gallery 72,BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+9410,West Building,M-074,1,West Main Floor Gallery 74,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+9411,West Building,M-011,1,West Main Floor Gallery 11,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+9444,East Building,EU-408,1,"East Bldg, Vestibule, 408 (Pod 2)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+9455,East Building,EM-216,1,"East Bldg, Vestibule, 216 (Pod 1)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+9457,West Building,G-023,1,West Ground Floor Gallery 23,BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9458,West Building,G-023,1,West Ground Floor Gallery 23,NORTH BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9460,West Building,G-026-B,1,West Ground Floor Gallery 26B,BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9461,East Building,EU-416,1,Bridge,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+9463,West Building,G-027,1,West Ground Floor Gallery 27,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9464,West Building,G-025,1,West Ground Floor Gallery 25,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9465,West Building,G-026-A,1,West Ground Floor Gallery 26A,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9472,West Building,G-030,1,West Ground Floor Gallery 30,NORTH BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9473,West Building,G-030,1,West Ground Floor Gallery 30,SOUTH BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9478,West Building,G-030,1,West Ground Floor Gallery 30,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9479,West Building,G-031,1,West Ground Floor Gallery 31,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9482,West Building,G-026-B,1,West Ground Floor Gallery 26B,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9506,West Building,M-052,1,West Main Floor Gallery 52,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+9522,West Building,G-044-A,1,West Bldg Garden Cafe - niche,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9523,West Building,G-044-A,1,West Bldg Garden Cafe - niche,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9524,West Building,G-042-B,1,West Ground Floor Gallery 42B,BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9666,West Building,G-034,1,West Ground Floor Gallery 34,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9667,West Building,G-033,1,West Ground Floor Gallery 33,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9686,East Building,EG-101,1,"East Bldg, Entrance Lobby",FLOOR,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+9713,West Building,G-023,1,West Ground Floor Gallery 23,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9725,East Building,EG-100,1,"East Bldg, Central Atrium, South Ledge",SOUTH LEDGE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+9726,West Building,G-044,1,"West Bldg Garden Cafe, Center Fountain",CENTER FOUNTAIN,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9752,West Building,G-003,1,West Ground Floor Gallery 3,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9774,West Building,G-034,1,West Ground Floor Gallery 34,NORTH BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9775,West Building,G-034,1,West Ground Floor Gallery 34,SOUTH BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9795,West Building,G-016,1,West Ground Floor Gallery 16,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9796,West Building,G-022,1,West Ground Floor Gallery 22,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+9824,East Building,EU-414,1,"East Bldg, Vestibule, 414 (Pod 1)",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+9983,East Building,EU-406-B,1,"East Bldg, Upr Lvl Gal 406B (Pod 2)",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+9984,East Building,EU-406-C,1,"East Bldg, Upr Lvl Gal 406C (Pod 2)",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+10001,East Building,EU-405,1,"East Bldg, West Terrace",STAIRWELL,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+10063,West Building,M-005,1,West Main Floor Gallery 5,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10099,East Building,EM-204,1,"East Bldg, Mezz. Elevator Lobby",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+10105,East Building,EM-217-B,1,"East Bldg, Mezz Gal 217B (Pod 1)",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+10107,East Building,EU-415-B,1,"East Bldg, Upr Lvl Gal 415B (Pod 1)",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+10121,East Building,EU-401,1,"East Bldg, Upper, Elevator Lobby",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+10138,West Building,M-083,1,West Main Floor Gallery 83,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10143,West Building,G-034,1,West Ground Floor Gallery 34,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+10144,West Building,G-030,1,West Ground Floor Gallery 30,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+10287,West Building,G-021,1,West Ground Floor Gallery 21,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+10325,West Building,G-042-A,1,West Ground Floor Gallery 42A,Center,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+10326,West Building,G-042-C,1,West Ground Floor Gallery 42A,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+10327,West Building,G-014,1,West Ground Floor Gallery 14,CEILING,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+10330,East Building,EU-406-A,1,"East Bldg, Upr Lvl Gal 406A (Pod 2)",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+10343,West Building,M-136,1,East Garden Court,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10344,West Building,M-136,1,East Garden Court,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10345,West Building,M-136,1,East Garden Court,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10346,West Building,M-136,1,East Garden Court,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10347,West Building,M-134,1,East Sculpture Hall,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10348,West Building,M-134,1,East Sculpture Hall,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10349,West Building,M-134,1,East Sculpture Hall,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10350,West Building,M-134,1,East Sculpture Hall,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10351,West Building,M-134,1,East Sculpture Hall,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10352,West Building,M-134,1,East Sculpture Hall,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10353,West Building,M-113,1,Founder's Room,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10354,West Building,M-113,1,Founder's Room,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10355,West Building,M-113,1,Founder's Room,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10356,West Building,M-113,1,Founder's Room,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10357,West Building,M-113,1,Founder's Room,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10362,West Building,M-103,1,"West Bldg, Lobby A",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10363,West Building,M-103,1,"West Bldg, Lobby A",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10364,West Building,M-103,1,"West Bldg, Lobby A",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10365,West Building,M-103,1,"West Bldg, Lobby A",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10366,West Building,M-103,1,"West Bldg, Lobby A",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10367,West Building,M-103,1,"West Bldg, Lobby A",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10368,West Building,M-105,1,"West Bldg, Lobby B",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10369,West Building,M-105,1,"West Bldg, Lobby B",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10370,West Building,M-105,1,"West Bldg, Lobby B",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10371,West Building,M-105,1,"West Bldg, Lobby B",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10372,West Building,M-105,1,"West Bldg, Lobby B",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10373,West Building,M-105,1,"West Bldg, Lobby B",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10374,West Building,M-135,1,"West Bldg, Lobby C",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10375,West Building,M-135,1,"West Bldg, Lobby C",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10376,West Building,M-135,1,"West Bldg, Lobby C",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10377,West Building,M-135,1,"West Bldg, Lobby C",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10378,West Building,M-107,1,Rotunda,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10379,West Building,M-107,1,Rotunda,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10380,West Building,M-107,1,Rotunda,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10381,West Building,M-107,1,Rotunda,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10382,West Building,M-127,1,North Stair Landing East,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10383,West Building,M-127,1,North Stair Landing East,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10384,West Building,M-121,1,North Stair Landing West,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10385,West Building,M-104,1,West Garden Court,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10386,West Building,M-104,1,West Garden Court,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10387,West Building,M-104,1,West Garden Court,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10388,West Building,M-104,1,West Garden Court,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10389,West Building,M-104,1,West Garden Court,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10390,West Building,M-104,1,West Garden Court,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10391,West Building,M-106,1,West Sculpture Hall,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10392,West Building,M-106,1,West Sculpture Hall,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10393,West Building,M-106,1,West Sculpture Hall,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10394,West Building,M-106,1,West Sculpture Hall,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10395,West Building,M-106,1,West Sculpture Hall,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10396,West Building,M-106,1,West Sculpture Hall,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10397,West Building,M-100,1,West Stair Lobby,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10398,West Building,M-100,1,West Stair Lobby,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10399,West Building,M-100,1,West Stair Lobby,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10400,West Building,M-100,1,West Stair Lobby,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10408,West Building,M-121,1,North Stair Landing West,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10492,West Building,M-065,1,West Main Floor Gallery 65,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10494,West Building,M-073-A,1,West Main Floor Gallery 73 A,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10495,West Building,M-073-A,1,West Main Floor Gallery 73 A,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10496,West Building,M-073-A,1,West Main Floor Gallery 73 A,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10497,West Building,M-073-A,1,West Main Floor Gallery 73 A,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10498,West Building,M-073-A,1,West Main Floor Gallery 73 A,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10546,West Building,G-018,1,West Ground Floor Gallery 18,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+10552,West Building,G-024,1,West Ground Floor Gallery 24,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+10584,West Building,M-072,1,West Main Floor Gallery 72,NORTH BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10585,West Building,M-072,1,West Main Floor Gallery 72,SOUTH BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10597,West Building,G-013,1,West Ground Floor Gallery 13,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+10598,West Building,G-024,1,West Ground Floor Gallery 24,NORTH BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+10599,West Building,G-023,1,West Ground Floor Gallery 23,SOUTH BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+10647,West Building,M-073-B,1,West Main Floor Gallery 73 B,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10648,West Building,M-073-B,1,West Main Floor Gallery 73 B,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10649,West Building,M-073-B,1,West Main Floor Gallery 73 B,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10650,West Building,M-073-B,1,West Main Floor Gallery 73 B,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10651,West Building,M-073-B,1,West Main Floor Gallery 73 B,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10664,West Building,M-073-A,1,West Main Floor Gallery 73 A,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+10665,West Building,M-138,1,East Stair Lobby,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+12473,West Building,M-138,1,East Stair Lobby,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+12479,West Building,M-137,1,"West Bldg, Lobby D",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+12574,West Building,M-127,1,North Stair Landing East,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+12577,West Building,M-121,1,North Stair Landing West,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+12767,West Building,M-078-B,1,West Main Floor Gallery 78B,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+12768,West Building,M-072,1,West Main Floor Gallery 72,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+13045,East Building,ET-606,1,"East Bldg, Tower Gallery 606",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13046,East Building,ET-616,1,"East Bldg, Terrace",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13048,East Building,ET-615-A,1,"East Bldg, Tower Gallery 615A",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13049,East Building,ET-615-B,1,"East Bldg, Tower Gallery 615B",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13050,East Building,ET-615-A,1,"East Bldg, Tower Gallery 615A",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13051,East Building,ET-615-A,1,"East Bldg, Tower Gallery 615A",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13052,East Building,ET-615-A,1,"East Bldg, Tower Gallery 615A",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13053,East Building,ET-615-A,1,"East Bldg, Tower Gallery 615A",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13054,East Building,ET-615-B,1,"East Bldg, Tower Gallery 615B",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13055,East Building,ET-615-B,1,"East Bldg, Tower Gallery 615B",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13056,East Building,ET-615-B,1,"East Bldg, Tower Gallery 615B",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13057,East Building,ET-615-B,1,"East Bldg, Tower Gallery 615B",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13081,East Building,EM-204,1,"East Bldg, Mezz. Elevator Lobby",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+13085,East Building,EG-105,1,"East Bldg, Vestibule, 105 (Pod 1)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13093,East Building,EG-106-A,1,"East Bldg, Ground Gal 106A (Pod 1)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13094,East Building,EG-106-C,1,"East Bldg, Ground Gal 106C (Pod 1)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13095,East Building,EG-106-E,1,"East Bldg, Ground Gal 106E (Pod 1)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13096,East Building,EG-106-B,1,"East Bldg, Ground Gal 106B (Pod 1)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13097,East Building,EG-103-A,1,"East Bldg, Ground Gal 103A (Pod 2)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13098,East Building,EG-103-B,1,"East Bldg, Ground Gal 103B (Pod 2)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13099,East Building,EG-103-C,1,"East Bldg, Ground Gal 103C (Pod 2)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13100,East Building,EG-103-D,1,"East Bldg, Ground Gal 103D (Pod 2)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13101,East Building,EG-103-E,1,"East Bldg, Ground Gal 103E (Pod 2)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13106,East Building,EM-214-Z,1,"East Bldg, Mezz Gal 214Z (Pod 2)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+13107,East Building,EG-103-Z,1,"East Bldg, Ground Lobby 103Z (Pod 2)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13108,East Building,EM-217-A,1,"East Bldg, Mezz Gal 217A (Pod 1)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+13109,East Building,EM-217-C,1,"East Bldg, Mezz Gal 217C (Pod 1)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+13111,East Building,EU-406-Z,1,"East Bldg, Upr Lvl Lobby 406Z (Pod 2)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13112,East Building,EU-407-A,1,"East Bldg, Upr Lvl Gal 407A (North Bridge)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13113,East Building,EU-407-B,1,"East Bldg, Upr Lvl Gal 407B (North Bridge)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13114,East Building,EU-407-C,1,"East Bldg, Upr Lvl Gal 407C (North Bridge)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13115,East Building,EU-407-D,1,"East Bldg, Upr Lvl Gal 407D (North Bridge)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13116,East Building,EU-404-A,1,"East Bldg, Upr Lvl Gal 404A (West Bridge)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13117,East Building,EU-404-B,1,"East Bldg, Upr Lvl Gal 404B (West Bridge)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13118,East Building,EU-404-C,1,"East Bldg, Upr Lvl Gal 404C (West Bridge)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13120,East Building,EU-415-A,1,"East Bldg, Upr Lvl Gal 415A (Pod 1)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13121,East Building,EU-415-C,1,"East Bldg, Upr Lvl Gal 415C (Pod 1)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13122,East Building,EU-415-A,1,"East Bldg, Upr Lvl Gal 415A (Pod 1)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13123,East Building,EU-415-A,1,"East Bldg, Upr Lvl Gal 415A (Pod 1)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13124,East Building,EU-415-A,1,"East Bldg, Upr Lvl Gal 415A (Pod 1)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13125,East Building,EU-415-A,1,"East Bldg, Upr Lvl Gal 415A (Pod 1)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13126,East Building,EU-415-C,1,"East Bldg, Upr Lvl Gal 415C (Pod 1)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13127,East Building,EU-415-C,1,"East Bldg, Upr Lvl Gal 415C (Pod 1)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13128,East Building,EU-415-C,1,"East Bldg, Upr Lvl Gal 415C (Pod 1)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13129,East Building,EU-415-C,1,"East Bldg, Upr Lvl Gal 415C (Pod 1)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13130,East Building,ET-608,1,"East Bldg, Tower Elev Lobby 608 (Pod 2)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13131,East Building,ET-608,1,"East Bldg, Tower Elev Lobby 608 (Pod 2)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13132,East Building,ET-614,1,"East Bldg, Tower Elev Lobby 614 (Pod 1)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13133,East Building,ET-614,1,"East Bldg, Tower Elev Lobby 614 (Pod 1)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13134,East Building,EU-407-X,1,"East Bldg, Upr Lvl Stairway 407X (North Bridge)",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13135,East Building,EG-106-A,1,"East Bldg, Ground Gal 106A (Pod 1)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13136,East Building,EG-106-A,1,"East Bldg, Ground Gal 106A (Pod 1)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13137,East Building,EG-106-A,1,"East Bldg, Ground Gal 106A (Pod 1)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13138,East Building,EG-106-A,1,"East Bldg, Ground Gal 106A (Pod 1)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13139,East Building,EG-106-B,1,"East Bldg, Ground Gal 106B (Pod 1)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13140,East Building,EG-106-B,1,"East Bldg, Ground Gal 106B (Pod 1)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13141,East Building,EG-106-B,1,"East Bldg, Ground Gal 106B (Pod 1)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13142,East Building,EG-106-B,1,"East Bldg, Ground Gal 106B (Pod 1)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13143,East Building,EG-106-C,1,"East Bldg, Ground Gal 106C (Pod 1)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13144,East Building,EG-106-C,1,"East Bldg, Ground Gal 106C (Pod 1)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13145,East Building,EG-106-C,1,"East Bldg, Ground Gal 106C (Pod 1)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13146,East Building,EG-106-C,1,"East Bldg, Ground Gal 106C (Pod 1)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13147,East Building,EG-106-B,1,"East Bldg, Ground Gal 106B (Pod 1)",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13148,East Building,EG-106-A,1,"East Bldg, Ground Gal 106A (Pod 1)",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13149,East Building,EU-415-A,1,"East Bldg, Upr Lvl Gal 415A (Pod 1)",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13150,East Building,EU-415-C,1,"East Bldg, Upr Lvl Gal 415C (Pod 1)",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13151,East Building,EG-103-A,1,"East Bldg, Ground Gal 103A (Pod 2)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13152,East Building,EG-103-A,1,"East Bldg, Ground Gal 103A (Pod 2)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13153,East Building,EG-103-A,1,"East Bldg, Ground Gal 103A (Pod 2)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13154,East Building,EG-103-A,1,"East Bldg, Ground Gal 103A (Pod 2)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13155,East Building,EG-103-B,1,"East Bldg, Ground Gal 103B (Pod 2)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13156,East Building,EG-103-B,1,"East Bldg, Ground Gal 103B (Pod 2)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13157,East Building,EG-103-B,1,"East Bldg, Ground Gal 103B (Pod 2)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13158,East Building,EG-103-B,1,"East Bldg, Ground Gal 103B (Pod 2)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13159,East Building,EG-103-C,1,"East Bldg, Ground Gal 103C (Pod 2)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13160,East Building,EG-103-C,1,"East Bldg, Ground Gal 103C (Pod 2)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13161,East Building,EG-103-C,1,"East Bldg, Ground Gal 103C (Pod 2)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13162,East Building,EG-103-C,1,"East Bldg, Ground Gal 103C (Pod 2)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13163,East Building,EG-103-D,1,"East Bldg, Ground Gal 103D (Pod 2)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13164,East Building,EG-103-D,1,"East Bldg, Ground Gal 103D (Pod 2)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13165,East Building,EG-103-D,1,"East Bldg, Ground Gal 103D (Pod 2)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13166,East Building,EG-103-D,1,"East Bldg, Ground Gal 103D (Pod 2)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13167,East Building,EG-103-E,1,"East Bldg, Ground Gal 103E (Pod 2)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13168,East Building,EG-103-E,1,"East Bldg, Ground Gal 103E (Pod 2)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13169,East Building,EG-103-E,1,"East Bldg, Ground Gal 103E (Pod 2)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13170,East Building,EG-103-E,1,"East Bldg, Ground Gal 103E (Pod 2)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13171,East Building,EG-103-Z,1,"East Bldg, Ground Lobby 103Z (Pod 2)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13172,East Building,EG-103-Z,1,"East Bldg, Ground Lobby 103Z (Pod 2)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13173,East Building,EU-406-Z,1,"East Bldg, Upr Lvl Lobby 406Z (Pod 2)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13174,East Building,EU-406-Z,1,"East Bldg, Upr Lvl Lobby 406Z (Pod 2)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13175,East Building,EM-217-A,1,"East Bldg, Mezz Gal 217A (Pod 1)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+13176,East Building,EM-217-A,1,"East Bldg, Mezz Gal 217A (Pod 1)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+13177,East Building,EM-217-A,1,"East Bldg, Mezz Gal 217A (Pod 1)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+13178,East Building,EM-217-A,1,"East Bldg, Mezz Gal 217A (Pod 1)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+13179,East Building,EM-217-C,1,"East Bldg, Mezz Gal 217C (Pod 1)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+13180,East Building,EM-217-C,1,"East Bldg, Mezz Gal 217C (Pod 1)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+13181,East Building,EM-217-C,1,"East Bldg, Mezz Gal 217C (Pod 1)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+13182,East Building,EM-217-C,1,"East Bldg, Mezz Gal 217C (Pod 1)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+13183,East Building,EM-217-C,1,"East Bldg, Mezz Gal 217C (Pod 1)",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+13184,East Building,EM-217-A,1,"East Bldg, Mezz Gal 217A (Pod 1)",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+13185,East Building,EU-407-D,1,"East Bldg, Upr Lvl Gal 407D (North Bridge)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13186,East Building,EU-407-D,1,"East Bldg, Upr Lvl Gal 407D (North Bridge)",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13187,East Building,EU-407-C,1,"East Bldg, Upr Lvl Gal 407C (North Bridge)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13188,East Building,EU-407-B,1,"East Bldg, Upr Lvl Gal 407B (North Bridge)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13189,East Building,EU-407-D,1,"East Bldg, Upr Lvl Gal 407D (North Bridge)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13190,East Building,EU-407-B,1,"East Bldg, Upr Lvl Gal 407B (North Bridge)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13191,East Building,EU-407-A,1,"East Bldg, Upr Lvl Gal 407A (North Bridge)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13192,East Building,EU-407-B,1,"East Bldg, Upr Lvl Gal 407B (North Bridge)",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13193,East Building,EU-407-B,1,"East Bldg, Upr Lvl Gal 407B (North Bridge)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13194,East Building,EU-407-B,1,"East Bldg, Upr Lvl Gal 407B (North Bridge)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13195,East Building,EU-407-D,1,"East Bldg, Upr Lvl Gal 407D (North Bridge)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13196,East Building,EU-407-A,1,"East Bldg, Upr Lvl Gal 407A (North Bridge)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13197,East Building,EU-407-A,1,"East Bldg, Upr Lvl Gal 407A (North Bridge)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13198,East Building,EU-407-D,1,"East Bldg, Upr Lvl Gal 407D (North Bridge)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13199,East Building,EU-407-C,1,"East Bldg, Upr Lvl Gal 407C (North Bridge)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13200,East Building,EU-407-C,1,"East Bldg, Upr Lvl Gal 407C (North Bridge)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13201,East Building,EU-407-C,1,"East Bldg, Upr Lvl Gal 407C (North Bridge)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13208,East Building,ET-606,1,"East Bldg, Tower Gallery 606",CEILING,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13209,East Building,ET-606,1,"East Bldg, Tower Gallery 606",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13210,East Building,ET-606,1,"East Bldg, Tower Gallery 606",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13211,East Building,ET-606,1,"East Bldg, Tower Gallery 606",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13212,East Building,ET-606,1,"East Bldg, Tower Gallery 606",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13213,East Building,ET-606,1,"East Bldg, Tower Gallery 606",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-tower.png
+13214,East Building,EG-105,1,"East Bldg, Vestibule, 105 (Pod 1)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13215,East Building,EG-105,1,"East Bldg, Vestibule, 105 (Pod 1)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13217,East Building,EU-404-A,1,"East Bldg, Upr Lvl Gal 404A (West Bridge)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13218,East Building,EU-404-A,1,"East Bldg, Upr Lvl Gal 404A (West Bridge)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13219,East Building,EU-404-A,1,"East Bldg, Upr Lvl Gal 404A (West Bridge)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13220,East Building,EU-404-A,1,"East Bldg, Upr Lvl Gal 404A (West Bridge)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13221,East Building,EU-404-B,1,"East Bldg, Upr Lvl Gal 404B (West Bridge)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13222,East Building,EU-404-B,1,"East Bldg, Upr Lvl Gal 404B (West Bridge)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13223,East Building,EU-404-B,1,"East Bldg, Upr Lvl Gal 404B (West Bridge)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13224,East Building,EU-404-B,1,"East Bldg, Upr Lvl Gal 404B (West Bridge)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13225,East Building,EU-404-C,1,"East Bldg, Upr Lvl Gal 404C (West Bridge)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13226,East Building,EU-404-C,1,"East Bldg, Upr Lvl Gal 404C (West Bridge)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13227,East Building,EU-404-C,1,"East Bldg, Upr Lvl Gal 404C (West Bridge)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13228,East Building,EU-404-C,1,"East Bldg, Upr Lvl Gal 404C (West Bridge)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13291,East Building,EM-214-Z,1,"East Bldg, Mezz Gal 214Z (Pod 2)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+13292,East Building,EM-214-Z,1,"East Bldg, Mezz Gal 214Z (Pod 2)",W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-mezzanine.png
+13300,West Building,G-023,1,West Ground Floor Gallery 23,CASE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+13333,West Building,M-090,1,West Main Floor Gallery 90,FLOOR,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+13342,East Building,EU-407-A,1,"East Bldg, Upr Lvl Gal 407A (North Bridge)",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13357,West Building,M-008,1,West Main Floor Gallery 8,BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+13577,West Building,G-021,1,West Ground Floor Gallery 21,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+13579,East Building,EU-404-C,1,"East Bldg, Upr Lvl Gal 404C (West Bridge)",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13584,West Building,M-055,1,West Main Floor Gallery 55,Center,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+13686,East Building,EU-407-X,1,"East Bldg, Upr Lvl Stairway 407X (North Bridge)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13728,West Building,G-027,1,West Ground Floor Gallery 27,BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+13764,West Building,M-137,1,"West Bldg, Lobby D",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+13815,West Building,G-045,1,West Ground Floor Gallery 45,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+13816,West Building,G-045,1,West Ground Floor Gallery 45,E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+13817,West Building,G-045,1,West Ground Floor Gallery 45,N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+13818,West Building,G-045,1,West Ground Floor Gallery 45,S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+13819,West Building,G-045,1,West Ground Floor Gallery 45,W,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+13828,West Building,G-032,1,West Ground Floor Gallery 32,EAST BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+13829,West Building,G-032,1,West Ground Floor Gallery 32,WEST BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+13836,West Building,G-026-B,1,West Ground Floor Gallery 26B,WEST BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+13837,West Building,G-026-B,1,West Ground Floor Gallery 26B,EAST BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+13899,West Building,M-077,1,West Main Floor Gallery 77,WEST BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+13900,West Building,M-077,1,West Main Floor Gallery 77,EAST BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+13931,West Building,G-029,1,West Ground Floor Gallery 29,BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-ground.png
+13949,East Building,EU-405,1,"East Bldg, West Terrace",,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+13963,East Building,EG-106-E,1,"East Bldg, Ground Gal 106E (Pod 1)",E,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13964,East Building,EG-106-E,1,"East Bldg, Ground Gal 106E (Pod 1)",N,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-ground.png
+13989,West Building,M-076,1,West Main Floor Gallery 76,Center,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+14133,East Building,EU-407-A,1,"East Bldg, Upr Lvl Gal 407A (North Bridge)",S,https://www.nga.gov/content/dam/ngaweb/LocationMaps/eb-upper.png
+14173,West Building,M-073-B,1,West Main Floor Gallery 73 B,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+14174,West Building,M-072,1,West Main Floor Gallery 72,CEILING,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+14176,Sculpture Garden (WSG),NW-Quad,1,Sculpture Garden - NW,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wsg.png
+14177,Sculpture Garden (WSG),NE-Quad,1,Sculpture Garden - NE,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wsg.png
+14178,Sculpture Garden (WSG),SE-Quad,1,Sculpture Garden - SE,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wsg.png
+14179,Sculpture Garden (WSG),SW-Quad,1,Sculpture Garden - SW,,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wsg.png
+14615,West Building,M-078-A,1,West Main Floor Gallery 78A,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+14631,West Building,M-014,1,West Main Floor Gallery 14,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+14632,West Building,M-011,1,West Main Floor Gallery 11,BAFFLE,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+14633,West Building,M-013,1,West Main Floor Gallery 13,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+14634,West Building,M-016,1,West Main Floor Gallery 16,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+14635,West Building,M-012,1,West Main Floor Gallery 12,CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
+14652,West Building,M-015,1,"NGA, West Building, M-015, CENTER",CENTER,https://www.nga.gov/content/dam/ngaweb/LocationMaps/wb-main.png
